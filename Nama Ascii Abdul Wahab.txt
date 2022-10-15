@@ -1,0 +1,75 @@
+KONVERSI NAMA KE ASCII
+
+41 62 64 75 6C 
+A  b  d  u  l
+
+ 20 
+SPASI
+
+57 61 68 61 62
+W  a  h  a  b
+
+Asal Kata : Abdul Wahab
+
+Hitung Nama Hexadecimal Ke Binary:
+Jawab:
+Diketahui:	2 pangkat 0 = 1
+		2 pangkat 1 = 2
+		2 pangkat 2 = 4
+		2 pangkat 3 = 8
+
+Jumlah: A=	41=4 dan 1
+		4=0100
+		1=0001
+
+	b=	62=6 dan 2
+		6=0110
+		2=0010
+
+	d=	64=6 dan 4
+		6=0110
+		4=0100
+
+	u=	75=7 dan 5
+		7=0111
+		5=0101
+
+	l=	6 dan C
+		6=0110
+		C=12=1 dan 2
+		1=0001
+		2=0010
+
+Hitung Nama Hexadecimal Ke Binary:
+W: 57
+a: 61
+h: 68
+a: 61
+b: 62
+
+Jawab:
+Diketahui:	2 pangkat 0 = 1
+		2 pangkat 1 = 2
+		2 pangkat 2 = 4
+		2 pangkat 3 = 8
+
+Jumlah:	W=	57=5 dan 7
+		5=0101
+		7=0111
+
+	a=	61=6 dan 1
+		6=0110
+		1=0001
+
+	h=	68=6 dan 8
+		6=0110
+		8=1000
+
+	a=	61=6 dan 1
+		6=0110
+		1=0001
+
+	b=	62=6 dan 2
+		6=0110
+		2=0010
+ 
